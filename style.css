@@ -1,31 +1,27 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body { /* Visual */
-    background: red;
+    background: black;
     color: white;
   }
   form {color: white;
   }
 
-.btn {
-  
-      background-color: yellow;
-     
-      }
+
 .modal-title, .modal-body{
      color:black
     }
   #display {
-    font-family:'Bowlby One SC';
+    font-family:'Roboto', sans-serif;
     font-size: 300px;
-    color: yellow;
+    color: white;
     width: 100%;
   
     /* Typography */
     text-align: center;
   
     /* Visual */
-    background: red;
+    background: black;
   }
   
   #wrapper {
@@ -51,30 +47,15 @@ body { /* Visual */
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family:'Bowlby One SC';
+    font-family:'Roboto' sans-serif;
     width: 30%;
     height: 200px;
     font-size: 200px;
-    color: yellow;
-    /* text-align: center; */
+    color: white;
   
   }
  
-  #logoContainer{
-    width:100%;
-    display:flex;
-    margin: 4em;
   
-   
-  }
-  #imageContainer{
-    padding: 2em;
-  }
-  #directions{ 
-    margin-right: auto;
-    font-size: 2em;
-    padding: 2em;
-  
-  
-  }
+ 
+ 
    
