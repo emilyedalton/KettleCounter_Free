@@ -1,0 +1,80 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body { /* Visual */
+    background: red;
+    color: white;
+  }
+  form {color: white;
+  }
+
+.btn {
+  
+      background-color: yellow;
+     
+      }
+.modal-title, .modal-body{
+     color:black
+    }
+  #display {
+    font-family:'Bowlby One SC';
+    font-size: 300px;
+    color: yellow;
+    width: 100%;
+  
+    /* Typography */
+    text-align: center;
+  
+    /* Visual */
+    background: red;
+  }
+  
+  #wrapper {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    }
+  
+  #buttons { /* Typography */
+    text-align: center;
+  }
+  
+ 
+  #lapContainer{
+    
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #laps {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:'Bowlby One SC';
+    width: 30%;
+    height: 200px;
+    font-size: 200px;
+    color: yellow;
+    /* text-align: center; */
+  
+  }
+ 
+  #logoContainer{
+    width:100%;
+    display:flex;
+    margin: 4em;
+  
+   
+  }
+  #imageContainer{
+    padding: 2em;
+  }
+  #directions{ 
+    margin-right: auto;
+    font-size: 2em;
+    padding: 2em;
+  
+  
+  }
+   
